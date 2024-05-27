@@ -307,4 +307,154 @@ class EjaraIcons {
 
   // link-broken-01 icon
   static const linkBroken1 = EjaraIcons._('assets/icons/link-broken-01.svg');
+
+  // link-broken-02 icon
+  static const linkBroken2 = EjaraIcons._('assets/icons/link-broken-02.svg');
+
+  // link-external-01 icon
+  static const linkExternal1 =
+      EjaraIcons._('assets/icons/link-external-01.svg');
+
+  // link-external-02 icon
+  static const linkExternal2 =
+      EjaraIcons._('assets/icons/link-external-02.svg');
+
+  // loading-01 icon
+  static const loading1 = EjaraIcons._('assets/icons/loading-01.svg');
+
+  // loading-02 icon
+  static const loading2 = EjaraIcons._('assets/icons/loading-02.svg');
+
+  // loading-03 icon
+  static const loading3 = EjaraIcons._('assets/icons/loading-03.svg');
+
+  // log-in-01 icon
+  static const logIn1 = EjaraIcons._('assets/icons/log-in-01.svg');
+
+  // log-in-02 icon
+  static const logIn2 = EjaraIcons._('assets/icons/log-in-02.svg');
+
+  // log-in-03 icon
+  static const logIn3 = EjaraIcons._('assets/icons/log-in-03.svg');
+
+  // log-in-04 icon
+  static const logIn4 = EjaraIcons._('assets/icons/log-in-04.svg');
+
+  // log-out-01 icon
+  static const logOut1 = EjaraIcons._('assets/icons/log-out-01.svg');
+
+  // log-out-02 icon
+  static const logOut2 = EjaraIcons._('assets/icons/log-out-02.svg');
+
+  // log-out-03 icon
+  static const logOut3 = EjaraIcons._('assets/icons/log-out-03.svg');
+
+  // log-out-04 icon
+  static const logOut4 = EjaraIcons._('assets/icons/log-out-04.svg');
+
+  // medical-circle icon
+  static const medicalCircle = EjaraIcons._('assets/icons/medical-circle.svg');
+
+  // medical-cross icon
+  static const medicalCross = EjaraIcons._('assets/icons/medical-cross.svg');
+
+  // medical-square icon
+  static const medicalSquare = EjaraIcons._('assets/icons/medical-square.svg');
+
+  // menu-01 icon
+  static const menu1 = EjaraIcons._('assets/icons/menu-01.svg');
+
+  // menu-02 icon
+  static const menu2 = EjaraIcons._('assets/icons/menu-02.svg');
+
+  // menu-03 icon
+  static const menu3 = EjaraIcons._('assets/icons/menu-03.svg');
+
+  // menu-04 icon
+  static const menu4 = EjaraIcons._('assets/icons/menu-04.svg');
+
+  // menu-05 icon
+  static const menu5 = EjaraIcons._('assets/icons/menu-05.svg');
+
+  // minus-circle icon
+  static const minusCircle = EjaraIcons._('assets/icons/minus-circle.svg');
+
+  // minus-square icon
+  static const minusSquare = EjaraIcons._('assets/icons/minus-square.svg');
+
+  // minus icon
+  static const minus = EjaraIcons._('assets/icons/minus.svg');
+
+  // percent-01 icon
+  static const percent1 = EjaraIcons._('assets/icons/percent-01.svg');
+
+  // percent-02 icon
+  static const percent2 = EjaraIcons._('assets/icons/percent-02.svg');
+
+  // percent-02 icon
+  static const percent3 = EjaraIcons._('assets/icons/percent-03.svg');
+
+  // pin-01 icon
+  static const pin1 = EjaraIcons._('assets/icons/pin-01.svg');
+
+  // pin-02 icon
+  static const pin2 = EjaraIcons._('assets/icons/pin-02.svg');
+
+  // placeholder icon
+  static const placeholder = EjaraIcons._('assets/icons/placeholder.svg');
+
+  // plus-circle icon
+  static const plusCircle = EjaraIcons._('assets/icons/plus-circle.svg');
+
+  // plus-square icon
+  static const plusSquare = EjaraIcons._('assets/icons/plus-square.svg');
+
+  // plus icon
+  static const plus = EjaraIcons._('assets/icons/plus.svg');
+
+  // save-01 icon
+  static const save1 = EjaraIcons._('assets/icons/save-01.svg');
+
+  // save-02 icon
+  static const save2 = EjaraIcons._('assets/icons/save-02.svg');
+
+  // save-03 icon
+  static const save3 = EjaraIcons._('assets/icons/save-03.svg');
+
+  // search-lg icon
+  static const searchLg = EjaraIcons._('assets/icons/search-lg.svg');
+
+  // search-md icon
+  static const searchMd = EjaraIcons._('assets/icons/search-md.svg');
+
+  // search-refraction icon
+  static const searchRefraction =
+      EjaraIcons._('assets/icons/search-refraction.svg');
+
+  // search-sm icon
+  static const searchSm = EjaraIcons._('assets/icons/search-sm.svg');
+
+  // settings-01 icon
+  static const settings1 = EjaraIcons._('assets/icons/settings-01.svg');
+
+  // settings-02 icon
+  static const settings2 = EjaraIcons._('assets/icons/settings-02.svg');
+
+  // settings-03 icon
+  static const settings3 = EjaraIcons._('assets/icons/settings-03.svg');
+
+  // settings-04 icon
+  static const settings4 = EjaraIcons._('assets/icons/settings-04.svg');
+
+  // share-01 icon
+  static const share1 = EjaraIcons._('assets/icons/share-01.svg');
+
+  // share-02 icon
+  static const share2 = EjaraIcons._('assets/icons/share-02.svg');
+
+  // share-03 icon
+  static const share3 = EjaraIcons._('assets/icons/share-03.svg');
+
+  // share-04 icon
+  static const share4 = EjaraIcons._('assets/icons/share-04.svg');
 }

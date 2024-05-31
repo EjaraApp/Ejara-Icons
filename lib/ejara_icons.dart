@@ -4,7 +4,7 @@ library ejara_icons;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-//import 'package:path/path.dart' as p;
+import 'package:path/path.dart' as p;
 
 import 'src/icons.dart';
 
@@ -26,12 +26,12 @@ class EjaraIcon extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // final path = p.join(
-    //   'packages/ejara_icons/assets/icons/',
-    //   icon.name,
-    // );
-    return SvgPicture.asset(
+    final path = p.join(
+      'packages/ejara_icons/',
       icon.name,
+    );
+    return SvgPicture.asset(
+      path,
       colorFilter: ColorFilter.mode(
         color ?? IconTheme.of(context).color ?? Colors.black,
         BlendMode.srcIn,

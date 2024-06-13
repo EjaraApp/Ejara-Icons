@@ -596,6 +596,15 @@ class EjaraIcons {
   // zap-square icon
   static const zapSquare = EjaraIcons._('assets/icons/zap-square.svg');
 
-  // zap- icon
+  // zap icon
   static const zap = EjaraIcons._('assets/icons/zap.svg');
+
+  // arrow icon
+  static const arrowLeft = EjaraIcons._('assets/icons/arrow-left.svg');
+
+  // star-01 icon
+  static const star1 = EjaraIcons._('assets/icons/star-01.svg');
+
+  //qr-code-01 icon
+  static const qrCode1 = EjaraIcons._('assets/icons/qr-code-01.svg');
 }

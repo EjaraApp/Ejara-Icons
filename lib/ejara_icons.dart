@@ -32,10 +32,8 @@ class EjaraIcon extends StatelessWidget {
     );
     return SvgPicture.asset(
       path,
-      colorFilter: ColorFilter.mode(
-        color ?? IconTheme.of(context).color ?? Colors.black,
-        BlendMode.srcIn,
-      ),
+      colorFilter:
+          color == null ? null : ColorFilter.mode(color!, BlendMode.srcIn),
       width: size,
       height: size,
       alignment: Alignment.center,

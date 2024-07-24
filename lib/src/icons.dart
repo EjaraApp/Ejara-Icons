@@ -607,4 +607,8 @@ class EjaraIcons {
 
   //qr-code-01 icon
   static const qrCode1 = EjaraIcons._('assets/icons/qr-code-01.svg');
+
+  // CM country icon
+  static const cmCountry = EjaraIcons._('assets/icons/CM.svg'); 
+  
 }

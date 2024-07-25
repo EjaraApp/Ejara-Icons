@@ -609,6 +609,46 @@ class EjaraIcons {
   static const qrCode1 = EjaraIcons._('assets/icons/qr-code-01.svg');
 
   // CM country icon
-  static const cmCountry = EjaraIcons._('assets/icons/CM.svg'); 
-  
+  static const cmCountry = EjaraIcons._('assets/icons/CM.svg');
+
+  // delete icon
+  static const delete = EjaraIcons._('assets/icons/delete.svg');
+
+  // face-id-square icon
+  static const faceIdSquare = EjaraIcons._('assets/icons/face-id-square.svg');
+
+  // face-id icon
+  static const faceId = EjaraIcons._('assets/icons/face-id.svg');
+
+  // message-square-01 icon
+  static const messageSquare1 =
+      EjaraIcons._('assets/icons/message-square-01.svg');
+
+  // message-square-02 icon
+  static const messageSquare2 =
+      EjaraIcons._('assets/icons/message-square-02.svg');
+
+  // message-text-circle-01 icon
+  static const messageTextCircle1 =
+      EjaraIcons._('assets/icons/message-text-circle-01.svg');
+
+  // message-text-circle-02 icon
+  static const messageTextCircle2 =
+      EjaraIcons._('assets/icons/message-text-circle-02.svg');
+
+  // message-text-square-01 icon
+  static const messageTextSquare1 =
+      EjaraIcons._('assets/icons/message-text-square-01.svg');
+
+  // message-text-square-02 icon
+  static const messageTextSquare2 =
+      EjaraIcons._('assets/icons/message-text-square-02.svg');
+
+  // message-x-circle icon
+  static const messageXcircle =
+      EjaraIcons._('assets/icons/message-x-circle.svg');
+
+  // message-x-square icon
+  static const messageXSquare =
+      EjaraIcons._('assets/icons/message-x-square.svg');
 }

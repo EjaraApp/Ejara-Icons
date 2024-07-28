@@ -605,6 +605,24 @@ class EjaraIcons {
   // star-01 icon
   static const star1 = EjaraIcons._('assets/icons/star-01.svg');
 
+  // star-02 icon
+  static const star2 = EjaraIcons._('assets/icons/star-02.svg');
+
+  // star-03 icon
+  static const star3 = EjaraIcons._('assets/icons/star-03.svg');
+
+  // star-04 icon
+  static const star4 = EjaraIcons._('assets/icons/star-04.svg');
+
+  // star-05 icon
+  static const star5 = EjaraIcons._('assets/icons/star-05.svg');
+
+  // star-06 icon
+  static const star6 = EjaraIcons._('assets/icons/star-06.svg');
+
+  // star-07 icon
+  static const star7 = EjaraIcons._('assets/icons/star-07.svg');
+
   //qr-code-01 icon
   static const qrCode1 = EjaraIcons._('assets/icons/qr-code-01.svg');
 

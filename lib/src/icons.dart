@@ -669,4 +669,22 @@ class EjaraIcons {
   // message-x-square icon
   static const messageXSquare =
       EjaraIcons._('assets/icons/message-x-square.svg');
+
+  // mail-01 icon
+  static const mail1 = EjaraIcons._('assets/icons/mail-01.svg');
+
+  // mail-02 icon
+  static const mail2 = EjaraIcons._('assets/icons/mail-02.svg');
+
+  // mail-03 icon
+  static const mail3 = EjaraIcons._('assets/icons/mail-03.svg');
+
+  // mail-04 icon
+  static const mail4 = EjaraIcons._('assets/icons/mail-04.svg');
+
+  // mail-05 icon
+  static const mail5 = EjaraIcons._('assets/icons/mail-05.svg');
+
+  // scan icon
+  static const scan = EjaraIcons._('assets/icons/scan.svg');
 }

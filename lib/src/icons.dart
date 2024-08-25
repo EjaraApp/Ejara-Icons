@@ -687,4 +687,66 @@ class EjaraIcons {
 
   // scan icon
   static const scan = EjaraIcons._('assets/icons/scan.svg');
+
+  // alarm-clock icons
+  static const alarmClock = EjaraIcons._('assets/icons/alarm-clock.svg');
+
+  // announcement-01 icons
+  static const announcement1 = EjaraIcons._('assets/icons/announcement-01.svg');
+
+  // announcement-02 icons
+  static const announcement2 = EjaraIcons._('assets/icons/announcement-02.svg');
+
+  // arrow-narrow-right icons
+  static const arrowNarrowRight =
+      EjaraIcons._('assets/icons/arrow-narrow-right.svg');
+
+  // bell-1 icons
+  static const bell1 = EjaraIcons._('assets/icons/bell-01.svg');
+
+  // bell-2 icons
+  static const bell2 = EjaraIcons._('assets/icons/bell-02.svg');
+
+  // coins-swap-01 icons
+  static const coinsSwap1 = EjaraIcons._('assets/icons/coins-swap-01.svg');
+
+  // coins-swap-02 icons
+  static const coinsSwap2 = EjaraIcons._('assets/icons/coins-swap-02.svg');
+
+  // credit-card-01 icons
+  static const creditCard1 = EjaraIcons._('assets/icons/credit-card-01.svg');
+
+  // credit-card-02 icons
+  static const creditCard2 = EjaraIcons._('assets/icons/credit-card-02.svg');
+
+  // currency-dollar-circle icons
+  static const currencyDollarCircle =
+      EjaraIcons._('assets/icons/currency-dollar-circle.svg');
+
+  // globe-01 icons
+  static const globe1 = EjaraIcons._('assets/icons/globe-01.svg');
+
+  // globe-02 icons
+  static const globe2 = EjaraIcons._('assets/icons/globe-02.svg');
+
+  // globe-03 icons
+  static const globe3 = EjaraIcons._('assets/icons/globe-03.svg');
+
+  // passcode-lock icons
+  static const passcodeLock = EjaraIcons._('assets/icons/passcode-lock.svg');
+
+  // user-01 icons
+  static const user1 = EjaraIcons._('assets/icons/user-01.svg');
+
+  // user-02 icons
+  static const user2 = EjaraIcons._('assets/icons/user-02.svg');
+
+  // user-03 icons
+  static const user3 = EjaraIcons._('assets/icons/user-03.svg');
+
+  // user-square icons
+  static const userSquare = EjaraIcons._('assets/icons/user-square.svg');
+
+  // users-plus icons
+  static const usersPlus = EjaraIcons._('assets/icons/users-plus.svg');
 }

@@ -749,4 +749,7 @@ class EjaraIcons {
 
   // users-plus icons
   static const usersPlus = EjaraIcons._('assets/icons/users-plus.svg');
+
+  // alert-circle icons
+  static const alertCircle = EjaraIcons._('assets/icons/alert-circle.svg');
 }

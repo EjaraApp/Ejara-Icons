@@ -755,4 +755,7 @@ class EjaraIcons {
 
   // GB country icon
   static const gbCountry = EjaraIcons._('assets/icons/GB.svg');
+
+  // chevron-down icons
+  static const chevronDown = EjaraIcons._('assets/icons/chevron-down.svg');
 }

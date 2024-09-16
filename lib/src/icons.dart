@@ -752,4 +752,7 @@ class EjaraIcons {
 
   // alert-circle icons
   static const alertCircle = EjaraIcons._('assets/icons/alert-circle.svg');
+
+  // GB country icon
+  static const gbCountry = EjaraIcons._('assets/icons/GB.svg');
 }

@@ -43,7 +43,7 @@ class MyHomePage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               EjaraIcon(
-                EjaraIcons.cmCountry,
+                EjaraIcons.cm,
               ),
               EjaraIcon(
                 EjaraIcons.activityHeart,

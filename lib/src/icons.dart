@@ -626,9 +626,6 @@ class EjaraIcons {
   //qr-code-01 icon
   static const qrCode1 = EjaraIcons._('assets/icons/qr-code-01.svg');
 
-  // CM country icon
-  static const cmCountry = EjaraIcons._('assets/icons/CM.svg');
-
   // delete icon
   static const delete = EjaraIcons._('assets/icons/delete.svg');
 
@@ -707,6 +704,9 @@ class EjaraIcons {
   // bell-2 icons
   static const bell2 = EjaraIcons._('assets/icons/bell-02.svg');
 
+  // bell-3 icons
+  static const bell3 = EjaraIcons._('assets/icons/bell-03.svg');
+
   // coins-swap-01 icons
   static const coinsSwap1 = EjaraIcons._('assets/icons/coins-swap-01.svg');
 
@@ -753,9 +753,582 @@ class EjaraIcons {
   // alert-circle icons
   static const alertCircle = EjaraIcons._('assets/icons/alert-circle.svg');
 
-  // GB country icon
-  static const gbCountry = EjaraIcons._('assets/icons/GB.svg');
-
   // chevron-down icons
   static const chevronDown = EjaraIcons._('assets/icons/chevron-down.svg');
+
+  // Afghanistan (AF)
+  static const af = EjaraIcons._('assets/icons/AF.svg');
+
+  // Åland Islands (AX)
+  static const ax = EjaraIcons._('assets/icons/AX.svg');
+
+  // Albania (AL)
+  static const al = EjaraIcons._('assets/icons/AL.svg');
+
+  // Algeria (DZ)
+  static const dz = EjaraIcons._('assets/icons/DZ.svg');
+
+  // Algeria (DZ)
+  static const as = EjaraIcons._('assets/icons/AS.svg');
+
+  // Andorra (AD)
+  static const ad = EjaraIcons._('assets/icons/AD.svg');
+
+  // Angola (AO)
+  static const ao = EjaraIcons._('assets/icons/AO.svg');
+
+  // Argentina (AR)
+  static const ar = EjaraIcons._('assets/icons/AR.svg');
+
+  // Armenia (AM)
+  static const am = EjaraIcons._('assets/icons/AM.svg');
+
+  // Australia (AU)
+  static const au = EjaraIcons._('assets/icons/AU.svg');
+
+  // Austria (AT)
+  static const at = EjaraIcons._('assets/icons/AT.svg');
+
+  // Azerbaijan (AZ)
+  static const az = EjaraIcons._('assets/icons/AZ.svg');
+
+  // Bahamas (BS)
+  static const bs = EjaraIcons._('assets/icons/BS.svg');
+
+  // Bahrain (BH)
+  static const bh = EjaraIcons._('assets/icons/BH.svg');
+
+  // Bangladesh (BD)
+  static const bd = EjaraIcons._('assets/icons/BD.svg');
+
+  // Barbados (BB)
+  static const bb = EjaraIcons._('assets/icons/BB.svg');
+
+  // Belarus (BY)
+  static const by = EjaraIcons._('assets/icons/BY.svg');
+
+  // Belgium (BE)
+  static const be = EjaraIcons._('assets/icons/BE.svg');
+
+  // Belize (BZ)
+  static const bz = EjaraIcons._('assets/icons/BZ.svg');
+
+  // Benin (BJ)
+  static const bj = EjaraIcons._('assets/icons/BJ.svg');
+
+  // Bhutan (BT)
+  static const bt = EjaraIcons._('assets/icons/BT.svg');
+
+  // Bolivia (BO)
+  static const bo = EjaraIcons._('assets/icons/BO.svg');
+
+  // Bosnia and Herzegovina (BA)
+  static const ba = EjaraIcons._('assets/icons/BA.svg');
+
+  // Botswana (BW)
+  static const bw = EjaraIcons._('assets/icons/BW.svg');
+
+  // Brazil (BR)
+  static const br = EjaraIcons._('assets/icons/BR.svg');
+
+  // Brunei (BN)
+  static const bn = EjaraIcons._('assets/icons/BN.svg');
+
+  // Bulgaria (BG)
+  static const bg = EjaraIcons._('assets/icons/BG.svg');
+
+  // Burkina Faso (BF)
+  static const bf = EjaraIcons._('assets/icons/BF.svg');
+
+  // Burundi (BI)
+  static const bi = EjaraIcons._('assets/icons/BI.svg');
+
+  // Cambodia (KH)
+  static const kh = EjaraIcons._('assets/icons/KH.svg');
+
+  // Cameroon (CM)
+  static const cm = EjaraIcons._('assets/icons/CM.svg');
+
+  // Canada (CA)
+  static const ca = EjaraIcons._('assets/icons/CA.svg');
+
+  // Central African Republic (CF)
+  static const cf = EjaraIcons._('assets/icons/CF.svg');
+
+  // Chad (TD)
+  static const td = EjaraIcons._('assets/icons/TD.svg');
+
+  // Chile (CL)
+  static const cl = EjaraIcons._('assets/icons/CL.svg');
+
+  // China (CN)
+  static const cn = EjaraIcons._('assets/icons/CN.svg');
+
+  // Colombia (CO)
+  static const co = EjaraIcons._('assets/icons/CO.svg');
+
+  // Comoros (KM)
+  static const km = EjaraIcons._('assets/icons/KM.svg');
+
+  // Costa Rica (CR)
+  static const cr = EjaraIcons._('assets/icons/CR.svg');
+
+  // Croatia (HR)
+  static const hr = EjaraIcons._('assets/icons/HR.svg');
+
+  // Cuba (CU)
+  static const cu = EjaraIcons._('assets/icons/CU.svg');
+
+  // Cyprus (CY)
+  static const cy = EjaraIcons._('assets/icons/CY.svg');
+
+  // Czech Republic (CZ)
+  static const cz = EjaraIcons._('assets/icons/CZ.svg');
+
+  // Denmark (DK)
+  static const dk = EjaraIcons._('assets/icons/DK.svg');
+
+  // Djibouti (DJ)
+  static const dj = EjaraIcons._('assets/icons/DJ.svg');
+
+  // Dominica (DM)
+  static const dm = EjaraIcons._('assets/icons/DM.svg');
+
+  // Dominican Republic (DO)
+  static const doIcon = EjaraIcons._('assets/icons/DO.svg');
+
+  // Ecuador (EC)
+  static const ec = EjaraIcons._('assets/icons/EC.svg');
+
+  // Egypt (EG)
+  static const eg = EjaraIcons._('assets/icons/EG.svg');
+
+  // El Salvador (SV)
+  static const sv = EjaraIcons._('assets/icons/SV.svg');
+
+  // Equatorial Guinea (GQ)
+  static const gq = EjaraIcons._('assets/icons/GQ.svg');
+
+  // Eritrea (ER)
+  static const er = EjaraIcons._('assets/icons/ER.svg');
+
+  // Estonia (EE)
+  static const ee = EjaraIcons._('assets/icons/EE.svg');
+
+  // Eswatini (SZ)
+  static const sz = EjaraIcons._('assets/icons/SZ.svg');
+
+  // Ethiopia (ET)
+  static const et = EjaraIcons._('assets/icons/ET.svg');
+
+  // Fiji (FJ)
+  static const fj = EjaraIcons._('assets/icons/FJ.svg');
+
+  // Finland (FI)
+  static const fi = EjaraIcons._('assets/icons/FI.svg');
+
+  // France (FR)
+  static const fr = EjaraIcons._('assets/icons/FR.svg');
+
+  // Gabon (GA)
+  static const ga = EjaraIcons._('assets/icons/GA.svg');
+
+  // Gambia (GM)
+  static const gm = EjaraIcons._('assets/icons/GM.svg');
+
+  // Georgia (GE)
+  static const ge = EjaraIcons._('assets/icons/GE.svg');
+
+  // Germany (DE)
+  static const de = EjaraIcons._('assets/icons/DE.svg');
+
+  // Ghana (GH)
+  static const gh = EjaraIcons._('assets/icons/GH.svg');
+
+  // Greece (GR)
+  static const gr = EjaraIcons._('assets/icons/GR.svg');
+
+  // Grenada (GD)
+  static const gd = EjaraIcons._('assets/icons/GD.svg');
+
+  // Guatemala (GT)
+  static const gt = EjaraIcons._('assets/icons/GT.svg');
+
+  // Guinea (GN)
+  static const gn = EjaraIcons._('assets/icons/GN.svg');
+
+  // Guinea-Bissau (GW)
+  static const gw = EjaraIcons._('assets/icons/GW.svg');
+
+  // Guyana (GY)
+  static const gy = EjaraIcons._('assets/icons/GY.svg');
+
+  // Haiti (HT)
+  static const ht = EjaraIcons._('assets/icons/HT.svg');
+
+  // Honduras (HN)
+  static const hn = EjaraIcons._('assets/icons/HN.svg');
+
+  // Hungary (HU)
+  static const hu = EjaraIcons._('assets/icons/HU.svg');
+
+  // Iceland (IS)
+  static const isIcon = EjaraIcons._('assets/icons/IS.svg');
+
+  // India (IN)
+  static const inIcon = EjaraIcons._('assets/icons/IN.svg');
+
+  // Indonesia (ID)
+  static const id = EjaraIcons._('assets/icons/ID.svg');
+
+  // Iran (IR)
+  static const ir = EjaraIcons._('assets/icons/IR.svg');
+
+  // Iraq (IQ)
+  static const iq = EjaraIcons._('assets/icons/IQ.svg');
+
+  // Ireland (IE)
+  static const ie = EjaraIcons._('assets/icons/IE.svg');
+
+  // Israel (IL)
+  static const il = EjaraIcons._('assets/icons/IL.svg');
+
+  // Italy (IT)
+  static const it = EjaraIcons._('assets/icons/IT.svg');
+
+  // Jamaica (JM)
+  static const jm = EjaraIcons._('assets/icons/JM.svg');
+
+  // Japan (JP)
+  static const jp = EjaraIcons._('assets/icons/JP.svg');
+
+  // Jordan (JO)
+  static const jo = EjaraIcons._('assets/icons/JO.svg');
+
+  // Kazakhstan (KZ)
+  static const kz = EjaraIcons._('assets/icons/KZ.svg');
+
+  // Kenya (KE)
+  static const ke = EjaraIcons._('assets/icons/KE.svg');
+
+  // Kiribati (KI)
+  static const ki = EjaraIcons._('assets/icons/KI.svg');
+
+  // Korea, North (KP)
+  static const kp = EjaraIcons._('assets/icons/KP.svg');
+
+  // Korea, South (KR)
+  static const kr = EjaraIcons._('assets/icons/KR.svg');
+
+  // Kuwait (KW)
+  static const kw = EjaraIcons._('assets/icons/KW.svg');
+
+  // Kyrgyzstan (KG)
+  static const kg = EjaraIcons._('assets/icons/KG.svg');
+
+  // Laos (LA)
+  static const la = EjaraIcons._('assets/icons/LA.svg');
+
+  // Latvia (LV)
+  static const lv = EjaraIcons._('assets/icons/LV.svg');
+
+  // Lebanon (LB)
+  static const lb = EjaraIcons._('assets/icons/LB.svg');
+
+  // Lesotho (LS)
+  static const ls = EjaraIcons._('assets/icons/LS.svg');
+
+  // Liberia (LR)
+  static const lr = EjaraIcons._('assets/icons/LR.svg');
+
+  // Libya (LY)
+  static const ly = EjaraIcons._('assets/icons/LY.svg');
+
+  // Liechtenstein (LI)
+  static const li = EjaraIcons._('assets/icons/LI.svg');
+
+  // Lithuania (LT)
+  static const lt = EjaraIcons._('assets/icons/LT.svg');
+
+  // Luxembourg (LU)
+  static const lu = EjaraIcons._('assets/icons/LU.svg');
+
+  // Madagascar (MG)
+  static const mg = EjaraIcons._('assets/icons/MG.svg');
+
+  // Malawi (MW)
+  static const mw = EjaraIcons._('assets/icons/MW.svg');
+
+  // Malaysia (MY)
+  static const my = EjaraIcons._('assets/icons/MY.svg');
+
+  // Maldives (MV)
+  static const mv = EjaraIcons._('assets/icons/MV.svg');
+
+  // Mali (ML)
+  static const ml = EjaraIcons._('assets/icons/ML.svg');
+
+  // Malta (MT)
+  static const mt = EjaraIcons._('assets/icons/MT.svg');
+
+  // Marshall Islands (MH)
+  static const mh = EjaraIcons._('assets/icons/MH.svg');
+
+  // Mauritania (MR)
+  static const mr = EjaraIcons._('assets/icons/MR.svg');
+
+  // Mauritius (MU)
+  static const mu = EjaraIcons._('assets/icons/MU.svg');
+
+  // Mexico (MX)
+  static const mx = EjaraIcons._('assets/icons/MX.svg');
+
+  // Micronesia (FM)
+  static const fm = EjaraIcons._('assets/icons/FM.svg');
+
+  // Moldova (MD)
+  static const md = EjaraIcons._('assets/icons/MD.svg');
+
+  // Monaco (MC)
+  static const mc = EjaraIcons._('assets/icons/MC.svg');
+
+  // Mongolia (MN)
+  static const mn = EjaraIcons._('assets/icons/MN.svg');
+
+  // Montenegro (ME)
+  static const me = EjaraIcons._('assets/icons/ME.svg');
+
+  // Morocco (MA)
+  static const ma = EjaraIcons._('assets/icons/MA.svg');
+
+  // Mozambique (MZ)
+  static const mz = EjaraIcons._('assets/icons/MZ.svg');
+
+  // Myanmar (MM)
+  static const mm = EjaraIcons._('assets/icons/MM.svg');
+
+  // Namibia (NA)
+  static const na = EjaraIcons._('assets/icons/NA.svg');
+
+  // Nauru (NR)
+  static const nr = EjaraIcons._('assets/icons/NR.svg');
+
+  // Nepal (NP)
+  static const np = EjaraIcons._('assets/icons/NP.svg');
+
+  // Netherlands (NL)
+  static const nl = EjaraIcons._('assets/icons/NL.svg');
+
+  // New Zealand (NZ)
+  static const nz = EjaraIcons._('assets/icons/NZ.svg');
+
+  // Nicaragua (NI)
+  static const ni = EjaraIcons._('assets/icons/NI.svg');
+
+  // Niger (NE)
+  static const ne = EjaraIcons._('assets/icons/NE.svg');
+
+  // Nigeria (NG)
+  static const ng = EjaraIcons._('assets/icons/NG.svg');
+
+  // North Macedonia (MK)
+  static const mk = EjaraIcons._('assets/icons/MK.svg');
+
+  // Norway (NO)
+  static const no = EjaraIcons._('assets/icons/NO.svg');
+
+  // Oman (OM)
+  static const om = EjaraIcons._('assets/icons/OM.svg');
+
+  // Pakistan (PK)
+  static const pk = EjaraIcons._('assets/icons/PK.svg');
+
+  // Palau (PW)
+  static const pw = EjaraIcons._('assets/icons/PW.svg');
+
+  // Panama (PA)
+  static const pa = EjaraIcons._('assets/icons/PA.svg');
+
+  // Papua New Guinea (PG)
+  static const pg = EjaraIcons._('assets/icons/PG.svg');
+
+  // Paraguay (PY)
+  static const py = EjaraIcons._('assets/icons/PY.svg');
+
+  // Peru (PE)
+  static const pe = EjaraIcons._('assets/icons/PE.svg');
+
+  // Philippines (PH)
+  static const ph = EjaraIcons._('assets/icons/PH.svg');
+
+  // Poland (PL)
+  static const pl = EjaraIcons._('assets/icons/PL.svg');
+
+  // Portugal (PT)
+  static const pt = EjaraIcons._('assets/icons/PT.svg');
+
+  // Qatar (QA)
+  static const qa = EjaraIcons._('assets/icons/QA.svg');
+
+  // Romania (RO)
+  static const ro = EjaraIcons._('assets/icons/RO.svg');
+
+  // Russia (RU)
+  static const ru = EjaraIcons._('assets/icons/RU.svg');
+
+  // Rwanda (RW)
+  static const rw = EjaraIcons._('assets/icons/RW.svg');
+
+  // Saint Kitts and Nevis (KN)
+  static const kn = EjaraIcons._('assets/icons/KN.svg');
+
+  // Saint Lucia (LC)
+  static const lc = EjaraIcons._('assets/icons/LC.svg');
+
+  // Saint Vincent and the Grenadines (VC)
+  static const vc = EjaraIcons._('assets/icons/VC.svg');
+
+  // Samoa (WS)
+  static const ws = EjaraIcons._('assets/icons/WS.svg');
+
+  // San Marino (SM)
+  static const sm = EjaraIcons._('assets/icons/SM.svg');
+
+  // Sao Tome and Principe (ST)
+  static const st = EjaraIcons._('assets/icons/ST.svg');
+
+  // Saudi Arabia (SA)
+  static const sa = EjaraIcons._('assets/icons/SA.svg');
+
+  // Senegal (SN)
+  static const sn = EjaraIcons._('assets/icons/SN.svg');
+
+  // Serbia (RS)
+  static const rs = EjaraIcons._('assets/icons/RS.svg');
+
+  // Seychelles (SC)
+  static const sc = EjaraIcons._('assets/icons/SC.svg');
+
+  // Sierra Leone (SL)
+  static const sl = EjaraIcons._('assets/icons/SL.svg');
+
+  // Singapore (SG)
+  static const sg = EjaraIcons._('assets/icons/SG.svg');
+
+  // Slovakia (SK)
+  static const sk = EjaraIcons._('assets/icons/SK.svg');
+
+  // Slovenia (SI)
+  static const si = EjaraIcons._('assets/icons/SI.svg');
+
+  // Solomon Islands (SB)
+  static const sb = EjaraIcons._('assets/icons/SB.svg');
+
+  // Somalia (SO)
+  static const so = EjaraIcons._('assets/icons/SO.svg');
+
+  // South Africa (ZA)
+  static const za = EjaraIcons._('assets/icons/ZA.svg');
+
+  // South Sudan (SS)
+  static const ss = EjaraIcons._('assets/icons/SS.svg');
+
+  // Spain (ES)
+  static const es = EjaraIcons._('assets/icons/ES.svg');
+
+  // Sri Lanka (LK)
+  static const lk = EjaraIcons._('assets/icons/LK.svg');
+
+  // Sudan (SD)
+  static const sd = EjaraIcons._('assets/icons/SD.svg');
+
+  // Suriname (SR)
+  static const sr = EjaraIcons._('assets/icons/SR.svg');
+
+  // Sweden (SE)
+  static const se = EjaraIcons._('assets/icons/SE.svg');
+
+  // Switzerland (CH)
+  static const ch = EjaraIcons._('assets/icons/CH.svg');
+
+  // Syria (SY)
+  static const sy = EjaraIcons._('assets/icons/SY.svg');
+
+  // Taiwan (TW)
+  static const tw = EjaraIcons._('assets/icons/TW.svg');
+
+  // Tajikistan (TJ)
+  static const tj = EjaraIcons._('assets/icons/TJ.svg');
+
+  // Tanzania (TZ)
+  static const tz = EjaraIcons._('assets/icons/TZ.svg');
+
+  // Thailand (TH)
+  static const th = EjaraIcons._('assets/icons/TH.svg');
+
+  // Timor-Leste (TL)
+  static const tl = EjaraIcons._('assets/icons/TL.svg');
+
+  // Togo (TG)
+  static const tg = EjaraIcons._('assets/icons/TG.svg');
+
+  // Tonga (TO)
+  static const to = EjaraIcons._('assets/icons/TO.svg');
+
+  // Trinidad and Tobago (TT)
+  static const tt = EjaraIcons._('assets/icons/TT.svg');
+
+  // Tunisia (TN)
+  static const tn = EjaraIcons._('assets/icons/TN.svg');
+
+  // Turkey (TR)
+  static const tr = EjaraIcons._('assets/icons/TR.svg');
+
+  // Turkmenistan (TM)
+  static const tm = EjaraIcons._('assets/icons/TM.svg');
+
+  // Tuvalu (TV)
+  static const tv = EjaraIcons._('assets/icons/TV.svg');
+
+  // Uganda (UG)
+  static const ug = EjaraIcons._('assets/icons/UG.svg');
+
+  // Ukraine (UA)
+  static const ua = EjaraIcons._('assets/icons/UA.svg');
+
+  // United Arab Emirates (AE)
+  static const ae = EjaraIcons._('assets/icons/AE.svg');
+
+  // United Kingdom (GB)
+  static const gb = EjaraIcons._('assets/icons/GB.svg');
+
+  // United States (US)
+  static const us = EjaraIcons._('assets/icons/US.svg');
+
+  // Uruguay (UY)
+  static const uy = EjaraIcons._('assets/icons/UY.svg');
+
+  // Uzbekistan (UZ)
+  static const uz = EjaraIcons._('assets/icons/UZ.svg');
+
+  // Vanuatu (VU)
+  static const vu = EjaraIcons._('assets/icons/VU.svg');
+
+  // Venezuela (VE)
+  static const ve = EjaraIcons._('assets/icons/VE.svg');
+
+  // Vietnam (VN)
+  static const vn = EjaraIcons._('assets/icons/VN.svg');
+
+  // Yemen (YE)
+  static const ye = EjaraIcons._('assets/icons/YE.svg');
+
+  // Zambia (ZM)
+  static const zm = EjaraIcons._('assets/icons/ZM.svg');
+
+  // Zimbabwe (ZW)
+  static const zw = EjaraIcons._('assets/icons/ZW.svg');
+
+  // Earth
+  static const earth = EjaraIcons._('assets/icons/earth.svg');
 }

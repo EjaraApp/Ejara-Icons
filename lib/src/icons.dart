@@ -1170,6 +1170,9 @@ class EjaraIcons {
   // Qatar (QA)
   static const qa = EjaraIcons._('assets/icons/QA.svg');
 
+  // Republic of Congo
+  static const cd = EjaraIcons._('assets/icons/CD-1.svg');
+
   // Romania (RO)
   static const ro = EjaraIcons._('assets/icons/RO.svg');
 

@@ -189,6 +189,9 @@ class EjaraIcons {
   // equal-not icon
   static const equalNot = EjaraIcons._('assets/icons/equal-not.svg');
 
+  // ejara-logo icon
+  static const ejaraLogo = EjaraIcons._('assets/icons/ejara-logo.svg');
+
   // equal icon
   static const equal = EjaraIcons._('assets/icons/equal.svg');
 
@@ -494,6 +497,10 @@ class EjaraIcons {
   // speedometer-04 icon
   static const speedometer4 = EjaraIcons._('assets/icons/speedometer-04.svg');
 
+  // switch-vertical-02 icon
+  static const switchVertical2 =
+      EjaraIcons._('assets/icons/switch-vertical-02.svg');
+
   // target-01 icon
   static const target1 = EjaraIcons._('assets/icons/target-01.svg');
 
@@ -719,6 +726,9 @@ class EjaraIcons {
 
   // coins-swap-01 icons
   static const coinsSwap1 = EjaraIcons._('assets/icons/coins-swap-01.svg');
+
+  // coins-hand icons
+  static const coinsHand = EjaraIcons._('assets/icons/coins-hand.svg');
 
   // coins-swap-02 icons
   static const coinsSwap2 = EjaraIcons._('assets/icons/coins-swap-02.svg');

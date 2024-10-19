@@ -558,6 +558,18 @@ class EjaraIcons {
   // trash-04 icon
   static const trash4 = EjaraIcons._('assets/icons/trash-04.svg');
 
+  // trend-down-01 icon
+  static const trendDown1 = EjaraIcons._('assets/icons/trend-down-01.svg');
+
+  // trend-down-02 icon
+  static const trendDown2 = EjaraIcons._('assets/icons/trend-down-02.svg');
+
+  // trend-up-01 icon
+  static const trendUp1 = EjaraIcons._('assets/icons/trend-up-01.svg');
+
+  // trend-up-02 icon
+  static const trendUp2 = EjaraIcons._('assets/icons/trend-up-02.svg');
+
   // upload-01 icon
   static const upload1 = EjaraIcons._('assets/icons/upload-01.svg');
 
@@ -739,9 +751,30 @@ class EjaraIcons {
   // credit-card-02 icons
   static const creditCard2 = EjaraIcons._('assets/icons/credit-card-02.svg');
 
+  // wallet-01 icons
+  static const wallet1 = EjaraIcons._('assets/icons/wallet-01.svg');
+
+  // wallet-01 icons
+  static const wallet2 = EjaraIcons._('assets/icons/wallet-02.svg');
+
+  // wallet-03 icons
+  static const wallet3 = EjaraIcons._('assets/icons/wallet-03.svg');
+
+  // wallet-04 icons
+  static const wallet4 = EjaraIcons._('assets/icons/wallet-04.svg');
+
+  // wallet-05 icons
+  static const wallet5 = EjaraIcons._('assets/icons/wallet-05.svg');
+
   // currency-dollar-circle icons
   static const currencyDollarCircle =
       EjaraIcons._('assets/icons/currency-dollar-circle.svg');
+
+  // gift-01 icons
+  static const gift1 = EjaraIcons._('assets/icons/gift-01.svg');
+
+  // gift-02 icons
+  static const gift2 = EjaraIcons._('assets/icons/gift-02.svg');
 
   // globe-01 icons
   static const globe1 = EjaraIcons._('assets/icons/globe-01.svg');

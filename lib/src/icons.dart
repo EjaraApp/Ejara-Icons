@@ -132,6 +132,32 @@ class EjaraIcons {
   // copy-07 icon
   static const copy7 = EjaraIcons._('assets/icons/copy-07.svg');
 
+  // clock-check icon
+  static const clockCheck = EjaraIcons._('assets/icons/clock-check.svg');
+
+  // clock-fast-forward icon
+  static const clockFastForward =
+      EjaraIcons._('assets/icons/clock-fast-forward.svg');
+
+  // clock-plus icon
+  static const clockPlus = EjaraIcons._('assets/icons/clock-plus.svg');
+
+  // clock-refresh icon
+  static const clockRefresh = EjaraIcons._('assets/icons/clock-refresh.svg');
+
+  // clock-rewind icon
+  static const clockRewind = EjaraIcons._('assets/icons/clock-rewind.svg');
+
+  // clock-snooze icon
+  static const clockSnooze = EjaraIcons._('assets/icons/clock-snooze.svg');
+
+  // clock-stopwatch icon
+  static const clockStopWatch =
+      EjaraIcons._('assets/icons/clock-stopwatch.svg');
+
+  // clock icon
+  static const clock = EjaraIcons._('assets/icons/clock.svg');
+
   // divide-01 icon
   static const divide1 = EjaraIcons._('assets/icons/divide-01.svg');
 

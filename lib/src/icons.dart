@@ -325,6 +325,9 @@ class EjaraIcons {
   // link-01 icon
   static const link1 = EjaraIcons._('assets/icons/link-01.svg');
 
+  // lightbulb-05 icon
+  static const lightBulb = EjaraIcons._('assets/icons/lightbulb-05.svg');
+
   // link-02 icon
   static const link2 = EjaraIcons._('assets/icons/link-02.svg');
 
@@ -670,6 +673,9 @@ class EjaraIcons {
 
   //qr-code-01 icon
   static const qrCode1 = EjaraIcons._('assets/icons/qr-code-01.svg');
+
+  //refresh-cw-04 icon
+  static const refreshCw4 = EjaraIcons._('assets/icons/refresh-cw-04.svg');
 
   // delete icon
   static const delete = EjaraIcons._('assets/icons/delete.svg');

@@ -844,6 +844,15 @@ class EjaraIcons {
   // chevron-right icons
   static const chevronRight = EjaraIcons._('assets/icons/chevron-right.svg');
 
+  // key-01 icons
+  static const key1 = EjaraIcons._('assets/icons/key-01.svg');
+
+  // key-02 icons
+  static const key2 = EjaraIcons._('assets/icons/key-02.svg');
+
+  // shield-plus icons
+  static const shieldPlus = EjaraIcons._('assets/icons/shield-plus.svg');
+
   // Afghanistan (AF)
   static const af = EjaraIcons._('assets/icons/AF.svg');
 

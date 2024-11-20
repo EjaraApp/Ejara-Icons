@@ -748,6 +748,18 @@ class EjaraIcons {
   // announcement-02 icons
   static const announcement2 = EjaraIcons._('assets/icons/announcement-02.svg');
 
+  // alert-hexagon icons
+  static const alertHexagon = EjaraIcons._('assets/icons/alert-hexagon.svg');
+
+  // alert-octagon icons
+  static const alertOctagon = EjaraIcons._('assets/icons/alert-octagon.svg');
+
+  // alert-square icons
+  static const alertSquare = EjaraIcons._('assets/icons/alert-square.svg');
+
+  // alert-triangle icons
+  static const alertTriangle = EjaraIcons._('assets/icons/alert-triangle.svg');
+
   // arrow-narrow-right icons
   static const arrowNarrowRight =
       EjaraIcons._('assets/icons/arrow-narrow-right.svg');

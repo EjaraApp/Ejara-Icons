@@ -773,6 +773,12 @@ class EjaraIcons {
   // bell-3 icons
   static const bell3 = EjaraIcons._('assets/icons/bell-03.svg');
 
+  // bank icons
+  static const bank = EjaraIcons._('assets/icons/bank.svg');
+
+  // arrow-up-right icons
+  static const arrowUpRight = EjaraIcons._('assets/icons/arrow-up-right.svg');
+
   // coins-stacked-03 icons
   static const coinsStacked3 =
       EjaraIcons._('assets/icons/coins-stacked-03.svg');

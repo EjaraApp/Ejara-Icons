@@ -862,6 +862,9 @@ class EjaraIcons {
   // key-02 icons
   static const key2 = EjaraIcons._('assets/icons/key-02.svg');
 
+  // bar-line-chart icons
+  static const barLineChart = EjaraIcons._('assets/icons/bar-line-chart.svg');
+
   // shield-plus icons
   static const shieldPlus = EjaraIcons._('assets/icons/shield-plus.svg');
 

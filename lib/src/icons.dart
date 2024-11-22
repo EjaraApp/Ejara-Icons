@@ -779,6 +779,12 @@ class EjaraIcons {
   // arrow-up-right icons
   static const arrowUpRight = EjaraIcons._('assets/icons/arrow-up-right.svg');
 
+  // arrow-down-left icons
+  static const arrowDownLeft = EjaraIcons._('assets/icons/arrow-down-left.svg');
+
+  // arrow-right icons
+  static const arrowright = EjaraIcons._('assets/icons/arrow-right.svg');
+
   // coins-stacked-03 icons
   static const coinsStacked3 =
       EjaraIcons._('assets/icons/coins-stacked-03.svg');

@@ -686,6 +686,12 @@ class EjaraIcons {
   // face-id icon
   static const faceId = EjaraIcons._('assets/icons/face-id.svg');
 
+  // user-up-01 icon
+  static const userUp1 = EjaraIcons._('assets/icons/user-up-01.svg');
+
+  // user-up-02 icon
+  static const userUp2 = EjaraIcons._('assets/icons/user-up-02.svg');
+
   // face-id icon
   static const faceId2 = EjaraIcons._('assets/icons/face-id-2.svg');
 

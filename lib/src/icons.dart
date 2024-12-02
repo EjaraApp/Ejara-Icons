@@ -791,6 +791,18 @@ class EjaraIcons {
   // arrow-right icons
   static const arrowright = EjaraIcons._('assets/icons/arrow-right.svg');
 
+  // calendar-check-02 icons
+  static const calendarCheck2 =
+      EjaraIcons._('assets/icons/calendar-check-02.svg');
+
+  // calendar-plus-01 icons
+  static const calendarPlus1 =
+      EjaraIcons._('assets/icons/calendar-plus-01.svg');
+
+  // coins-stacked-01 icons
+  static const coinsStacked1 =
+      EjaraIcons._('assets/icons/coins-stacked-01.svg');
+
   // coins-stacked-03 icons
   static const coinsStacked3 =
       EjaraIcons._('assets/icons/coins-stacked-03.svg');

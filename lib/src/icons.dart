@@ -686,6 +686,27 @@ class EjaraIcons {
   // face-id icon
   static const faceId = EjaraIcons._('assets/icons/face-id.svg');
 
+  //file-01 icon
+  static const file1 = EjaraIcons._('assets/icons/file-01.svg');
+
+  // file-02 icon
+  static const file2 = EjaraIcons._('assets/icons/file-02.svg');
+
+  // file-03 icon
+  static const file3 = EjaraIcons._('assets/icons/file-03.svg');
+
+  // file-04 icon
+  static const file4 = EjaraIcons._('assets/icons/file-04.svg');
+
+  // file-05 icon
+  static const file5 = EjaraIcons._('assets/icons/file-05.svg');
+
+  // file-06 icon
+  static const file6 = EjaraIcons._('assets/icons/file-06.svg');
+
+  // file-07 icon
+  static const file7 = EjaraIcons._('assets/icons/file-07.svg');
+
   // user-up-01 icon
   static const userUp1 = EjaraIcons._('assets/icons/user-up-01.svg');
 
@@ -726,6 +747,21 @@ class EjaraIcons {
   // message-x-square icon
   static const messageXSquare =
       EjaraIcons._('assets/icons/message-x-square.svg');
+
+  // image-01 icon
+  static const image1 = EjaraIcons._('assets/icons/image-01.svg');
+
+  // image-02 icon
+  static const image2 = EjaraIcons._('assets/icons/image-02.svg');
+
+  // image-03 icon
+  static const image3 = EjaraIcons._('assets/icons/image-03.svg');
+
+  // image-04 icon
+  static const image4 = EjaraIcons._('assets/icons/image-04.svg');
+
+  // image-05 icon
+  static const image5 = EjaraIcons._('assets/icons/image-05.svg');
 
   // mail-01 icon
   static const mail1 = EjaraIcons._('assets/icons/mail-01.svg');

@@ -707,6 +707,26 @@ class EjaraIcons {
   // file-07 icon
   static const file7 = EjaraIcons._('assets/icons/file-07.svg');
 
+  // file-attachment-01 icon
+  static const fileAttachment1 =
+      EjaraIcons._('assets/icons/file-attachment-01.svg');
+
+  // file-attachment-02 icon
+  static const fileAttachment2 =
+      EjaraIcons._('assets/icons/file-attachment-02.svg');
+
+  // file-attachment-03 icon
+  static const fileAttachment3 =
+      EjaraIcons._('assets/icons/file-attachment-03.svg');
+
+  // file-attachment-04 icon
+  static const fileAttachment4 =
+      EjaraIcons._('assets/icons/file-attachment-04.svg');
+
+  // file-attachment-05 icon
+  static const fileAttachment5 =
+      EjaraIcons._('assets/icons/file-attachment-05.svg');
+
   // user-up-01 icon
   static const userUp1 = EjaraIcons._('assets/icons/user-up-01.svg');
 

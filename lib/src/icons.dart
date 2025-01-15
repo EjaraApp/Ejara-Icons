@@ -686,6 +686,9 @@ class EjaraIcons {
   // face-id icon
   static const faceId = EjaraIcons._('assets/icons/face-id.svg');
 
+  // face-wink icon
+  static const faceWink = EjaraIcons._('assets/icons/face-wink.svg');
+
   //file-01 icon
   static const file1 = EjaraIcons._('assets/icons/file-01.svg');
 

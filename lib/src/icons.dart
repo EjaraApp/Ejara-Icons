@@ -5,6 +5,8 @@ class EjaraIcons {
 
   final String name;
 
+  EjaraIcons.fromName(this.name);
+
   /// General Icons
 
   // activity-heart icon
@@ -674,8 +676,35 @@ class EjaraIcons {
   //qr-code-01 icon
   static const qrCode1 = EjaraIcons._('assets/icons/qr-code-01.svg');
 
+  //refresh-cw-01 icon
+  static const refreshCw1 = EjaraIcons._('assets/icons/refresh-cw-01.svg');
+
+  //refresh-cw-02 icon
+  static const refreshCw2 = EjaraIcons._('assets/icons/refresh-cw-02.svg');
+
+  //refresh-cw-03 icon
+  static const refreshCw3 = EjaraIcons._('assets/icons/refresh-cw-03.svg');
+
   //refresh-cw-04 icon
   static const refreshCw4 = EjaraIcons._('assets/icons/refresh-cw-04.svg');
+
+  //refresh-cw-05 icon
+  static const refreshCw5 = EjaraIcons._('assets/icons/refresh-cw-05.svg');
+
+  //refresh-ccw-01 icon
+  static const refreshCcw1 = EjaraIcons._('assets/icons/refresh-ccw-01.svg');
+
+  //refresh-ccw-02 icon
+  static const refreshCcw2 = EjaraIcons._('assets/icons/refresh-ccw-02.svg');
+
+  //refresh-ccw-03 icon
+  static const refreshCcw3 = EjaraIcons._('assets/icons/refresh-ccw-03.svg');
+
+  //refresh-ccw-04 icon
+  static const refreshCcw4 = EjaraIcons._('assets/icons/refresh-ccw-04.svg');
+
+  //refresh-ccw-05 icon
+  static const refreshCcw5 = EjaraIcons._('assets/icons/refresh-ccw-05.svg');
 
   // delete icon
   static const delete = EjaraIcons._('assets/icons/delete.svg');
@@ -688,6 +717,24 @@ class EjaraIcons {
 
   // face-wink icon
   static const faceWink = EjaraIcons._('assets/icons/face-wink.svg');
+
+  // face-content icon
+  static const faceContent = EjaraIcons._('assets/icons/face-content.svg');
+
+  // face-frown icon
+  static const faceFrown = EjaraIcons._('assets/icons/face-frown.svg');
+
+  // face-happy icon
+  static const faceHappy = EjaraIcons._('assets/icons/face-happy.svg');
+
+  // face-neutral icon
+  static const faceNeutral = EjaraIcons._('assets/icons/face-neutral.svg');
+
+  // face-sad icon
+  static const faceSad = EjaraIcons._('assets/icons/face-sad.svg');
+
+  // face-smile icon
+  static const faceSmile = EjaraIcons._('assets/icons/face-smile.svg');
 
   //file-01 icon
   static const file1 = EjaraIcons._('assets/icons/file-01.svg');

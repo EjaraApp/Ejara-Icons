@@ -1582,4 +1582,8 @@ class EjaraIcons {
 
   // Earth
   static const earth = EjaraIcons._('assets/icons/earth.svg');
+
+  // Whatsapp-white-default
+  static const whatsappWhiteDefault =
+      EjaraIcons._('assets/icons/whatsapp-white-default.svg');
 }

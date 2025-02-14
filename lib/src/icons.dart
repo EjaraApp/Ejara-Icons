@@ -1016,7 +1016,7 @@ class EjaraIcons {
   // Algeria (DZ)
   static const dz = EjaraIcons._('assets/icons/DZ.svg');
 
-  // Algeria (DZ)
+  // American Samoa (DZ)
   static const as = EjaraIcons._('assets/icons/AS.svg');
 
   // Andorra (AD)
@@ -1579,6 +1579,69 @@ class EjaraIcons {
 
   // Zimbabwe (ZW)
   static const zw = EjaraIcons._('assets/icons/ZW.svg');
+
+  // New Caledonia (NC)
+  static const nc = EjaraIcons._('assets/icons/NC.svg');
+
+  // Vatican City (NC)
+  static const va = EjaraIcons._('assets/icons/VA.svg');
+
+  // Guadeloupe (GP)
+  static const gp = EjaraIcons._('assets/icons/GP.svg');
+
+  // French Southern Territories (TF)
+  static const tf = EjaraIcons._('assets/icons/TF.svg');
+
+  // French Guiana (GF)
+  static const gf = EjaraIcons._('assets/icons/GF.svg');
+
+  // Saint Pierre and Miquelon (PM)
+  static const pm = EjaraIcons._('assets/icons/PM.svg');
+
+  // Réunion (RE)
+  static const re = EjaraIcons._('assets/icons/RE.svg');
+
+  // Saint Martin (MF)
+  static const mf = EjaraIcons._('assets/icons/MF.svg');
+
+  //  Kosovo (XK)
+  static const xk = EjaraIcons._('assets/icons/XK.svg');
+
+  // Mayotte (YT)
+  static const yt = EjaraIcons._('assets/icons/YT.svg');
+
+  // Saint Helena, Ascension and Tristan da Cunha (SH)
+  static const sh = EjaraIcons._('assets/icons/SH.svg');
+
+  // Ivory coast (Côte d'Ivoire) (CI)
+  static const ci = EjaraIcons._('assets/icons/CI.svg');
+
+  // Antarctica (AQ)
+  static const aq = EjaraIcons._('assets/icons/AQ.svg');
+
+  //  (TC)
+  static const tc = EjaraIcons._('assets/icons/TC.svg');
+
+  //  (NF)
+  static const nf = EjaraIcons._('assets/icons/NF.svg');
+
+  //  (BQ)
+  static const bq = EjaraIcons._('assets/icons/BQ.svg');
+
+  //  (MQ)
+  static const mq = EjaraIcons._('assets/icons/MQ.svg');
+
+  //  (GI)
+  static const gi = EjaraIcons._('assets/icons/GI.svg');
+
+  //  (US)
+  static const um = EjaraIcons._('assets/icons/US.svg');
+
+  //  (BV)
+  static const bv = EjaraIcons._('assets/icons/NO.svg');
+
+  //  (BV)
+  static const sj = EjaraIcons._('assets/icons/NO.svg');
 
   // Earth
   static const earth = EjaraIcons._('assets/icons/earth.svg');

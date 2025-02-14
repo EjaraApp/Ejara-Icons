@@ -1586,6 +1586,9 @@ class EjaraIcons {
   // New Caledonia (NC)
   static const nc = EjaraIcons._('assets/icons/NC.svg');
 
+  // French Polynesia (PF)
+  static const pf = EjaraIcons._('assets/icons/PF.svg');
+
   // Vatican City (NC)
   static const va = EjaraIcons._('assets/icons/VA.svg');
 
@@ -1625,9 +1628,6 @@ class EjaraIcons {
   // French Southern Territories (TC)
   static const tc = EjaraIcons._('assets/icons/TC.svg');
 
-  // (NF)
-  static const nf = EjaraIcons._('assets/icons/NF.svg');
-
   // (BQ)
   static const bq = EjaraIcons._('assets/icons/BQ.svg');
 
@@ -1651,6 +1651,84 @@ class EjaraIcons {
 
   // South Georgia and the South Sandwich (GS)
   static const gs = EjaraIcons._('assets/icons/GB.svg');
+
+  // Heard Island and McDonald Islands (HM)
+  static const hm = EjaraIcons._('assets/icons/AU.svg');
+
+  // Christmas Island (CX)
+  static const cx = EjaraIcons._('assets/icons/CX.svg');
+
+  // Cocos (Keeling) Islands (CC)
+  static const cc = EjaraIcons._('assets/icons/CC.svg');
+
+  // Pitcairn Islands (PN)
+  static const pn = EjaraIcons._('assets/icons/PN.svg');
+
+  // Tokelau (TK)
+  static const tk = EjaraIcons._('assets/icons/TK.svg');
+
+  // Niue (NU)
+  static const nu = EjaraIcons._('assets/icons/NU.svg');
+
+  // Norfolk Island (NF)
+  static const nf = EjaraIcons._('assets/icons/NF.svg');
+
+  // Aruba (AW)
+  static const aw = EjaraIcons._('assets/icons/AW.svg');
+
+  // Bermuda (BM)
+  static const bm = EjaraIcons._('assets/icons/BM.svg');
+
+  // Cayman Islands (KY)
+  static const ky = EjaraIcons._('assets/icons/KY.svg');
+
+  // Greenland (GL)
+  static const gl = EjaraIcons._('assets/icons/GL.svg');
+
+  // Guernsey (GG)
+  static const gg = EjaraIcons._('assets/icons/GG.svg');
+
+  // Isle of Man (IM)
+  static const im = EjaraIcons._('assets/icons/IM.svg');
+
+  // Jersey (JE)
+  static const je = EjaraIcons._('assets/icons/JE.svg');
+
+  // Montserrat (MS)
+  static const ms = EjaraIcons._('assets/icons/MS.svg');
+
+  // Saint Barthélemy (BL)
+  static const bl = EjaraIcons._('assets/icons/BL.svg');
+
+  // Sint Maarten (Dutch part) (SX)
+  static const sx = EjaraIcons._('assets/icons/SX.svg');
+
+  // Cook Islands (CK)
+  static const ck = EjaraIcons._('assets/icons/CK.svg');
+
+  // Western Sahara (EH)
+  static const eh = EjaraIcons._('assets/icons/EH.svg');
+
+  // Palestine (PS)
+  static const ps = EjaraIcons._('assets/icons/PS.svg');
+
+  // British Virgin Islands (VG)
+  static const vg = EjaraIcons._('assets/icons/VG.svg');
+
+  // United States Virgin Islands (VI)
+  static const vi = EjaraIcons._('assets/icons/VI.svg');
+
+  // Anguilla (AI)
+  static const ai = EjaraIcons._('assets/icons/AI.svg');
+
+  // British Indian Ocean Territory (IO)
+  static const io = EjaraIcons._('assets/icons/IO.svg');
+
+  // Falkland Islands (Malvinas) (FK)
+  static const fk = EjaraIcons._('assets/icons/FK.svg');
+
+  // Macao (MO)
+  static const mo = EjaraIcons._('assets/icons/MO.svg');
 
   // Earth
   static const earth = EjaraIcons._('assets/icons/earth.svg');

@@ -780,6 +780,30 @@ class EjaraIcons {
   // user-up-01 icon
   static const userUp1 = EjaraIcons._('assets/icons/user-up-01.svg');
 
+  // camera-01 icon
+  static const camera1 = EjaraIcons._('assets/icons/camera-01.svg');
+
+  // camera-02 icon
+  static const camera2 = EjaraIcons._('assets/icons/camera-02.svg');
+
+  // camera-03 icon
+  static const camera3 = EjaraIcons._('assets/icons/camera-03.svg');
+
+  // camera-lens icon
+  static const cameraLens = EjaraIcons._('assets/icons/camera-lens.svg');
+
+  // camera-off icon
+  static const cameraOff = EjaraIcons._('assets/icons/camera-off.svg');
+
+  // camera-plus icon
+  static const cameraPlus = EjaraIcons._('assets/icons/camera-plus.svg');
+
+  // colors icon
+  static const colors = EjaraIcons._('assets/icons/colors.svg');
+
+  // flash icon
+  static const flash = EjaraIcons._('assets/icons/flash.svg');
+
   // user-up-02 icon
   static const userUp2 = EjaraIcons._('assets/icons/user-up-02.svg');
 

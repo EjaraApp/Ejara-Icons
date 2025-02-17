@@ -1443,10 +1443,10 @@ class EjaraIcons {
   static const qa = EjaraIcons._('assets/icons/QA.svg');
 
   // Democratic Republic of the Congo (CD)
-  static const cd = EjaraIcons._('assets/icons/CD-1.svg');
+  static const cd = EjaraIcons._('assets/icons/CD.svg');
 
   // Republic of Congo (CG)
-  static const cg = EjaraIcons._('assets/icons/CD.svg');
+  static const cg = EjaraIcons._('assets/icons/CG.svg');
 
   // Romania (RO)
   static const ro = EjaraIcons._('assets/icons/RO.svg');
@@ -1662,22 +1662,22 @@ class EjaraIcons {
   static const gi = EjaraIcons._('assets/icons/GI.svg');
 
   // United States Minor Outlying Islands (UM)
-  static const um = EjaraIcons._('assets/icons/US.svg');
+  static const um = EjaraIcons._('assets/icons/UM.svg');
 
   //  Bouvet Island (BV)
-  static const bv = EjaraIcons._('assets/icons/NO.svg');
+  static const bv = EjaraIcons._('assets/icons/BV.svg');
 
   // Svalbard and Jan Mayen (SJ)
-  static const sj = EjaraIcons._('assets/icons/NO.svg');
+  static const sj = EjaraIcons._('assets/icons/SJ.svg');
 
   // Wallis and Futuna (WF)
-  static const wf = EjaraIcons._('assets/icons/FR.svg');
+  static const wf = EjaraIcons._('assets/icons/WF.svg');
 
   // South Georgia and the South Sandwich (GS)
-  static const gs = EjaraIcons._('assets/icons/GB.svg');
+  static const gs = EjaraIcons._('assets/icons/GS.svg');
 
   // Heard Island and McDonald Islands (HM)
-  static const hm = EjaraIcons._('assets/icons/AU.svg');
+  static const hm = EjaraIcons._('assets/icons/HM.svg');
 
   // Christmas Island (CX)
   static const cx = EjaraIcons._('assets/icons/CX.svg');

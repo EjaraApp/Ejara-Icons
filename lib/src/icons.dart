@@ -1754,7 +1754,7 @@ class EjaraIcons {
   // Macao (MO)
   static const mo = EjaraIcons._('assets/icons/MO.svg');
 
-  // Cape Verde (Cabo Verde) (MO)
+  // Cape Verde (Cabo Verde) (CV)
   static const cv = EjaraIcons._('assets/icons/CV.svg');
 
   // Earth

@@ -1763,4 +1763,8 @@ class EjaraIcons {
   // Whatsapp-white-default
   static const whatsappWhiteDefault =
       EjaraIcons._('assets/icons/whatsapp-white-default.svg');
+
+  // whatsapp-grey-hover
+  static const whatsappGreyHover =
+      EjaraIcons._('assets/icons/whatsapp-grey-hover.svg');
 }

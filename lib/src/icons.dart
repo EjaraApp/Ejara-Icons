@@ -1025,6 +1025,9 @@ class EjaraIcons {
   // bar-line-chart icons
   static const barLineChart = EjaraIcons._('assets/icons/bar-line-chart.svg');
 
+  // line-chart-up-03.svg
+  static const lineChartUp3 = EjaraIcons._('assets/icons/line-chart-up-03.svg');
+
   // shield-plus icons
   static const shieldPlus = EjaraIcons._('assets/icons/shield-plus.svg');
 

@@ -1028,6 +1028,10 @@ class EjaraIcons {
   // shield-plus icons
   static const shieldPlus = EjaraIcons._('assets/icons/shield-plus.svg');
 
+  // save illustration
+  static const saveIllustration =
+      EjaraIcons._('assets/icons/save_illustration.svg');
+
   // Afghanistan (AF)
   static const af = EjaraIcons._('assets/icons/AF.svg');
 

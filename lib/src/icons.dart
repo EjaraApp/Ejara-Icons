@@ -342,6 +342,9 @@ class EjaraIcons {
   // lightbulb-05 icon
   static const lightBulb5 = EjaraIcons._('assets/icons/lightbulb-05.svg');
 
+  // lightbulb icon
+  static const lightBulb = EjaraIcons._('assets/icons/lightbulb-05.svg');
+
   // link-02 icon
   static const link2 = EjaraIcons._('assets/icons/link-02.svg');
 

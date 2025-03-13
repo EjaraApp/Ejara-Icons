@@ -327,8 +327,20 @@ class EjaraIcons {
   // link-01 icon
   static const link1 = EjaraIcons._('assets/icons/link-01.svg');
 
+  // lightbulb-01 icon
+  static const lightBulb1 = EjaraIcons._('assets/icons/lightbulb-01.svg');
+
+  // lightbulb-02 icon
+  static const lightBulb2 = EjaraIcons._('assets/icons/lightbulb-02.svg');
+
+  // lightbulb-03 icon
+  static const lightBulb3 = EjaraIcons._('assets/icons/lightbulb-03.svg');
+
+  // lightbulb-04 icon
+  static const lightBulb4 = EjaraIcons._('assets/icons/lightbulb-04.svg');
+
   // lightbulb-05 icon
-  static const lightBulb = EjaraIcons._('assets/icons/lightbulb-05.svg');
+  static const lightBulb5 = EjaraIcons._('assets/icons/lightbulb-05.svg');
 
   // link-02 icon
   static const link2 = EjaraIcons._('assets/icons/link-02.svg');

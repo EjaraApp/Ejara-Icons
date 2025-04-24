@@ -217,6 +217,10 @@ class EjaraIcons {
   // equal-not icon
   static const equalNot = EjaraIcons._('assets/icons/equal-not.svg');
 
+  // notification-bing
+  static const notificationBing =
+      EjaraIcons._('assets/icons/notification-bing.svg');
+
   // ejara-logo icon
   static const ejaraLogo = EjaraIcons._('assets/icons/ejara-logo.svg');
 
@@ -857,6 +861,10 @@ class EjaraIcons {
   static const messageXSquare =
       EjaraIcons._('assets/icons/message-x-square.svg');
 
+  // message-question icon
+  static const messageQuestion =
+      EjaraIcons._('assets/icons/message-question.svg');
+
   // image-01 icon
   static const image1 = EjaraIcons._('assets/icons/image-01.svg');
 
@@ -936,6 +944,9 @@ class EjaraIcons {
   // arrow-right icons
   static const arrowright = EjaraIcons._('assets/icons/arrow-right.svg');
 
+  // arrow-narrow-up icons
+  static const arrowNarrowUp = EjaraIcons._('assets/icons/arrow-narrow-up.svg');
+
   // calendar-check-02 icons
   static const calendarCheck2 =
       EjaraIcons._('assets/icons/calendar-check-02.svg');
@@ -947,6 +958,10 @@ class EjaraIcons {
   // coins-stacked-01 icons
   static const coinsStacked1 =
       EjaraIcons._('assets/icons/coins-stacked-01.svg');
+
+  // coins-stacked-02 icons
+  static const coinsStacked2 =
+      EjaraIcons._('assets/icons/coins-stacked-02.svg');
 
   // coins-stacked-03 icons
   static const coinsStacked3 =
@@ -1012,6 +1027,12 @@ class EjaraIcons {
 
   // user-02 icons
   static const user2 = EjaraIcons._('assets/icons/user-02.svg');
+
+  // user-add icons
+  static const userAdd = EjaraIcons._('assets/icons/user-add.svg');
+
+  // personal-card icons
+  static const personalCard = EjaraIcons._('assets/icons/personalcard.svg');
 
   // user-03 icons
   static const user3 = EjaraIcons._('assets/icons/user-03.svg');

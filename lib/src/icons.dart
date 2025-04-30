@@ -1067,6 +1067,37 @@ class EjaraIcons {
   // shield-plus icons
   static const shieldPlus = EjaraIcons._('assets/icons/shield-plus.svg');
 
+  // jaraActiveHome icon
+  static const jaraActiveHome = EjaraIcons._('assets/icons/jaraActiveHome.svg');
+
+  // jaraInActiveHome icon
+  static const jaraInActiveHome =
+      EjaraIcons._('assets/icons/jaraInActiveHome.svg');
+
+  // jaraActiveWallet icon
+  static const jaraActiveWallet =
+      EjaraIcons._('assets/icons/jaraActiveWallet.svg');
+
+  // jaraInActiveWallet icon
+  static const jaraInActiveWallet =
+      EjaraIcons._('assets/icons/jaraInActiveWallet.svg');
+
+  // jaraActiveActivity icon
+  static const jaraActiveActivity =
+      EjaraIcons._('assets/icons/jaraActiveActivity.svg');
+
+  // jaraInActiveActivity icon
+  static const jaraInActiveActivity =
+      EjaraIcons._('assets/icons/jaraInActiveActivity.svg');
+
+  // jaraInActiveAccount icon
+  static const jaraInActiveAccount =
+      EjaraIcons._('assets/icons/jaraInActiveAccount.svg');
+
+  // jaraActiveAccount icon
+  static const jaraActiveAccount =
+      EjaraIcons._('assets/icons/jaraActiveAccount.svg');
+
   // save illustration
   static const saveIllustration =
       EjaraIcons._('assets/icons/save_illustration.svg');

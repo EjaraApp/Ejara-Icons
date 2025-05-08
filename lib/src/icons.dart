@@ -929,6 +929,9 @@ class EjaraIcons {
   // bell-2 icons
   static const bell2 = EjaraIcons._('assets/icons/bell-02.svg');
 
+  // Caret_left icons
+  static const caretLeft = EjaraIcons._('assets/icons/Caret_left.svg');
+
   // bell-3 icons
   static const bell3 = EjaraIcons._('assets/icons/bell-03.svg');
 

@@ -611,6 +611,16 @@ class EjaraIcons {
   // trend-down-01 icon
   static const trendDown1 = EjaraIcons._('assets/icons/trend-down-01.svg');
 
+  // credit-card-refresh icon
+  static const creditCardRefresh =
+      EjaraIcons._('assets/icons/credit-card-refresh.svg');
+
+  // lock-04 icon
+  static const lock4 = EjaraIcons._('assets/icons/lock-04.svg');
+
+  // power-03.svg icon
+  static const power3 = EjaraIcons._('assets/icons/power-03.svg');
+
   // trend-down-02 icon
   static const trendDown2 = EjaraIcons._('assets/icons/trend-down-02.svg');
 

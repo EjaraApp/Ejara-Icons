@@ -1047,8 +1047,17 @@ class EjaraIcons {
   // personal-card icons
   static const personalCard = EjaraIcons._('assets/icons/personalcard.svg');
 
+  // migration icon
+  static const migration = EjaraIcons._('assets/icons/migration.svg');
+
   // user-03 icons
   static const user3 = EjaraIcons._('assets/icons/user-03.svg');
+
+  // agent-wallet icons
+  static const agentWallet = EjaraIcons._('assets/icons/agent-wallet.svg');
+
+  // element-plus icons
+  static const elementPlus = EjaraIcons._('assets/icons/element-plus.svg');
 
   // user-square icons
   static const userSquare = EjaraIcons._('assets/icons/user-square.svg');

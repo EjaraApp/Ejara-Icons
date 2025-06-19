@@ -1059,28 +1059,28 @@ class EjaraIcons {
   static const agentWallet = EjaraIcons._('assets/icons/agent-wallet.svg');
 
   // airtel_money icons
-  static const AIR = EjaraIcons._('assets/icons/airtel_money.svg');
+  static const AIR = EjaraIcons._('assets/icons/AIR.svg');
 
   // expresso_money icons
-  static const EM = EjaraIcons._('assets/icons/expresso_money.svg');
+  static const EM = EjaraIcons._('assets/icons/EM.svg');
 
   // free_money icons
-  static const FM = EjaraIcons._('assets/icons/free_money.svg');
+  static const FM = EjaraIcons._('assets/icons/FM-.svg');
 
   // moov_money icons
-  static const MOOV = EjaraIcons._('assets/icons/moov_money.svg');
+  static const MOOV = EjaraIcons._('assets/icons/MOOV.svg');
 
   // mtn_momo icons
-  static const MOMO = EjaraIcons._('assets/icons/mtn_momo.svg');
+  static const MOMO = EjaraIcons._('assets/icons/MOMO.svg');
 
   // orange_money icons
-  static const OM = EjaraIcons._('assets/icons/orange_money.svg');
+  static const OM = EjaraIcons._('assets/icons/OM-.svg');
 
   // vodacom icons
-  static const VOD = EjaraIcons._('assets/icons/vodacom.svg');
+  static const VOD = EjaraIcons._('assets/icons/VOD.svg');
 
   // wave icons
-  static const WAVE = EjaraIcons._('assets/icons/wave.svg');
+  static const WAVE = EjaraIcons._('assets/icons/WAVE.svg');
 
   // element-plus icons
   static const elementPlus = EjaraIcons._('assets/icons/element-plus.svg');

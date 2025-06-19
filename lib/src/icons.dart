@@ -1,3 +1,5 @@
+// ignore_for_file: constant_identifier_names
+
 library ejara_icons;
 
 class EjaraIcons {
@@ -1055,6 +1057,30 @@ class EjaraIcons {
 
   // agent-wallet icons
   static const agentWallet = EjaraIcons._('assets/icons/agent-wallet.svg');
+
+  // airtel_money icons
+  static const AIR = EjaraIcons._('assets/icons/airtel_money.svg');
+
+  // expresso_money icons
+  static const EM = EjaraIcons._('assets/icons/expresso_money.svg');
+
+  // free_money icons
+  static const FM = EjaraIcons._('assets/icons/free_money.svg');
+
+  // moov_money icons
+  static const MOOV = EjaraIcons._('assets/icons/moov_money.svg');
+
+  // mtn_momo icons
+  static const MOMO = EjaraIcons._('assets/icons/mtn_momo.svg');
+
+  // orange_money icons
+  static const OM = EjaraIcons._('assets/icons/orange_money.svg');
+
+  // vodacom icons
+  static const VOD = EjaraIcons._('assets/icons/vodacom.svg');
+
+  // wave icons
+  static const WAVE = EjaraIcons._('assets/icons/wave.svg');
 
   // element-plus icons
   static const elementPlus = EjaraIcons._('assets/icons/element-plus.svg');

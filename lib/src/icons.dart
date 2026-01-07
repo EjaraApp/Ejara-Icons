@@ -74,6 +74,9 @@ class EjaraIcons {
   // check icon
   static const check = EjaraIcons._('assets/icons/check.svg');
 
+  // card-coin
+  static const cardCoin = EjaraIcons._('assets/icons/card-coin.svg');
+
   // check-circle-broken icon
   static const checkCircleBroken =
       EjaraIcons._('assets/icons/check-circle-broken.svg');
@@ -326,6 +329,9 @@ class EjaraIcons {
 
   // life-buoy-01 icon
   static const lifeBuoy1 = EjaraIcons._('assets/icons/life-buoy-01.svg');
+
+  // lightning-02 icon
+  static const lightning2 = EjaraIcons._('assets/icons/lightning-02.svg');
 
   // life-buoy-02 icon
   static const lifeBuoy2 = EjaraIcons._('assets/icons/life-buoy-02.svg');
@@ -894,6 +900,9 @@ class EjaraIcons {
 
   // mail-01 icon
   static const mail1 = EjaraIcons._('assets/icons/mail-01.svg');
+
+  // money-add icon
+  static const moneyAdd = EjaraIcons._('assets/icons/money-add.svg');
 
   // mail-02 icon
   static const mail2 = EjaraIcons._('assets/icons/mail-02.svg');

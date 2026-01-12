@@ -315,6 +315,9 @@ class EjaraIcons {
   // home-smileicon
   static const homeSmile = EjaraIcons._('assets/icons/home-smile.svg');
 
+  // hour-glass-03 icon
+  static const hourGlass3 = EjaraIcons._('assets/icons/hourglass-03.svg');
+
   // info-circle icon
   static const infoCircle = EjaraIcons._('assets/icons/info-circle.svg');
 
@@ -844,6 +847,15 @@ class EjaraIcons {
   // user-up-02 icon
   static const userUp2 = EjaraIcons._('assets/icons/user-up-02.svg');
 
+  // user-tick icon
+  static const userTick = EjaraIcons._('assets/icons/user-tick.svg');
+
+  // wallet-check icon
+  static const walletCheck = EjaraIcons._('assets/icons/wallet-check.svg');
+
+  // money-tick icon
+  static const moneyTick = EjaraIcons._('assets/icons/money-tick.svg');
+
   // face-id icon
   static const faceId2 = EjaraIcons._('assets/icons/face-id-2.svg');
 
@@ -990,6 +1002,10 @@ class EjaraIcons {
   // coins-stacked-03 icons
   static const coinsStacked3 =
       EjaraIcons._('assets/icons/coins-stacked-03.svg');
+
+  // coins-stacked-04 icons
+  static const coinsStacked4 =
+      EjaraIcons._('assets/icons/coins-stacked-04.svg');
 
   // calendar-date icons
   static const calendarDate = EjaraIcons._('assets/icons/calendar-date.svg');

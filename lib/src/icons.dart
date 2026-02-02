@@ -1089,6 +1089,10 @@ class EjaraIcons {
   // user-square icons
   static const userSquare = EjaraIcons._('assets/icons/user-square.svg');
 
+  // image-user-check icons
+  static const imageUserCheck =
+      EjaraIcons._('assets/icons/image-user-check.svg');
+
   // users-plus icons
   static const usersPlus = EjaraIcons._('assets/icons/users-plus.svg');
 

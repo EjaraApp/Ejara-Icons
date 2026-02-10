@@ -853,9 +853,6 @@ class EjaraIcons {
   // wallet-check icon
   static const walletCheck = EjaraIcons._('assets/icons/wallet-check.svg');
 
-  // nps icon
-  static const nps = EjaraIcons._('assets/icons/nps.svg');
-
   // money-tick icon
   static const moneyTick = EjaraIcons._('assets/icons/money-tick.svg');
 

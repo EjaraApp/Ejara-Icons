@@ -856,6 +856,9 @@ class EjaraIcons {
   // money-tick icon
   static const moneyTick = EjaraIcons._('assets/icons/money-tick.svg');
 
+  // money-send icon
+  static const moneySend = EjaraIcons._('assets/icons/money-send.svg');
+
   // face-id icon
   static const faceId2 = EjaraIcons._('assets/icons/face-id-2.svg');
 
